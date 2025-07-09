@@ -1,5 +1,7 @@
 # Jogo: Missionários, Canibais e a Canoa
 
+**DEMO:** [https://hotpink-gorilla-377082.hostingersite.com/](https://hotpink-gorilla-377082.hostingersite.com/ )
+
 ## Descrição
 Este é um quebra-cabeça de lógica clássico onde você deve ajudar 3 missionários e 3 canibais a atravessarem um rio usando uma canoa que comporta no máximo 2 pessoas. O desafio é que em nenhum dos lados do rio o número de canibais pode ser maior do que o de missionários (senão eles comem os missionários!).
 
